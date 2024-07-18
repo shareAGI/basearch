@@ -13,14 +13,15 @@ basearch是一款智能搜索工具，旨在通过对用户收藏夹的内容建
 ## 源代码
 ### 前端
 实现了浏览器端插件，自定义浏览器启动页，支持个人收藏夹搜索、传统搜索引擎等，拥有美观的界面布局、优雅的界面动画。  
-前端源码：https://github.com/shareAI2/basearch-app
+源码：https://github.com/shareAI2/basearch-app
 
 ### 后端API
 与前端配合工作，实现用户收藏夹数据同步、目标网址文章标题、内容、截图抓取等功能，直接负责所有业务相关数据的共享和服务提供。  
-后端源码：https://github.com/shareAI2/basearch-api
+源码：https://github.com/shareAI2/basearch-api
 
 ### 数据引擎
-与后端配合工作，实现读写收藏夹数据库、向量数据库，对收藏文章内容抽取生成总结摘要、分块插入个人知识库以及相似度计算等。
+与后端配合工作，实现读写收藏夹数据库、向量数据库，对收藏文章内容抽取生成总结摘要、分块插入个人知识库以及相似度计算等。  
+源码：https://github.com/shareAI2/basearch-engine
 
 ## 使用方法
 - Chrome：https://github.com/shareAI2/basearch-app/releases/download/v0.1.0/basearch.zip
