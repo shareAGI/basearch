@@ -1,10 +1,10 @@
-# Basearch
+# baSearch
 
 中文 | [English](README.en.md)
 
 ## 简介
 
-Basearch 是一款浏览器插件，旨在通过深度爬取用户收藏夹的内容，并加以先进的自然语言处理和机器学习技术处理，以允许用户通过文字描述快速定位个人收藏内容。
+baSearch 是一款浏览器插件，旨在通过深度爬取用户收藏夹的内容，并加以先进的自然语言处理和机器学习技术处理，以允许用户通过文字描述快速定位个人收藏内容。
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d81fe67f-674c-47e9-b883-5cf7d5397042">
 
@@ -49,10 +49,8 @@ Basearch 是一款浏览器插件，旨在通过深度爬取用户收藏夹的�
 
 该项目采用 [Apache 许可证](LICENSE)。
 
-## 联系我们
+## 社区群组
 
-如有任何问题，请通过以下方式联系我们：
+baSearch 正经历积极的迭代，欢迎加入我们的微信 WaitList 群组获取 baSearch 的最新开发动态！
 
-- 邮箱: ai-lab@foxmail.com
-
-感谢您使用 basearch!
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/552ca65c-8b54-4348-bb80-c8785fca248c">
